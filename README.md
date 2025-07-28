@@ -68,7 +68,7 @@ This project helps identify the most profitable areas and property features to s
 - Set layout containers to **automatic sizing** for responsiveness.
 - Organized charts for intuitive comparison.
 
-![Dashboard](link-to-your-dashboard-screenshot.png)
+![Dashboard](https://github.com/philoooo/Tableau-Airbnb-Listings/blob/main/Airbnb%20Dashboard.PNG)
 
 ---
 
