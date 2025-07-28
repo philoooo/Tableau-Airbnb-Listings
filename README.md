@@ -1,7 +1,7 @@
-# Airbnb Listings Dashboard Using Tableau
+# Seattle Airbnb Listings Dashboard Using Tableau
 ---
 ## Use Case
-This project helps identify the most profitable areas and property features to start an Airbnb business. By exploring listing prices, seasonal trends, and property characteristics (like bedroom count and location), we gain insight into how to optimize revenue on Airbnb.
+This project helps identify the most profitable areas and property features to start an Airbnb business in Seattle, Washington. By exploring listing prices, seasonal trends, and property characteristics (like bedroom count and location), we gain insight into how to optimize revenue on Airbnb.
 
 ---
 
@@ -73,16 +73,16 @@ This project helps identify the most profitable areas and property features to s
 ---
 
 ##  Key Takeaways
-- ** More Bedrooms = Higher Earnings**  
+- **More Bedrooms = Higher Earnings**  
   While cheaper to acquire, 1-bedroom properties bring in the least. Larger listings allow for higher nightly rates and better returns.
 
-- ** Location Drives Profitability**  
+- **Location Drives Profitability**  
   Some zip codes consistently show higher prices. Focus on these for better market entry.
 
-- ** Seasonality Matters**  
+- **Seasonality Matters**  
   People spend the most money on Airbnb in peak summer (June) and leading up to and on Christmas day. There is a sharp decline after Christmas week in January, making it a bad time to post a listing. 
 
-- ** Lower Competition in Larger Listings**  
+- **Lower Competition in Larger Listings**  
   Fewer 3+ bedroom listings on the platform could indicate an underserved market segment. For example, there were only 5 6-bedroom listings. A zipcode without a 6-bedroom listing would be an optimal location.
 
 ---
