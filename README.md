@@ -11,7 +11,7 @@ This project helps identify the most profitable areas and property features to s
 - Imported Excel dataset into Tableau.
 - Created a **logical table** called `Listings` by joining the `Listings` and `Calendar` tables.
 - Join type: **Inner Join** on `Listings.id = Calendar.listing_id`.
-
+![Data Source](https://github.com/philoooo/Tableau-Airbnb-Listings/blob/main/Capture.PNG)
 ---
 
 ##  Visualizations
