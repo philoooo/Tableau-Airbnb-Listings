@@ -1,9 +1,13 @@
-# Seattle Airbnb Listings Dashboard Using Tableau
+## Seattle Airbnb Listings Dashboard Using Tableau
 
 ![Airbnb](https://github.com/philoooo/Tableau-Airbnb-Listings/blob/main/images.png)
+
 ---
+
 ## Use Case
+
 This project helps identify the most profitable areas and property features to start an Airbnb business in Seattle, Washington. By exploring listing prices, seasonal trends, and property characteristics (like bedroom count and location), we gain insight into how to optimize revenue on Airbnb.
+
 ---
 ##  Data Source
 **Dataset:** Airbnb Public Listings (2016)
